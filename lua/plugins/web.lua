@@ -1,3 +1,6 @@
 return {
-  { "barrett-ruth/live-server.nvim" },
+  {
+    "barrett-ruth/live-server.nvim",
+    config = true,
+  },
 }
